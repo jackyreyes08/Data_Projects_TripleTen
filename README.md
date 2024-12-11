@@ -11,5 +11,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 4	| Data Visualization with Tableu	| The project task was to analyze and review the superstore’s operations and increase its profitability to avoid bankruptcy.|
 | 5	| Story Telling with Data	| The project task was to preparing an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.|
 | 6 | Power BI  | The project task was to review the landscape of apps on the Shopify platform and figure out what key factors play into the success of a Shopify app.|
-| 7 | Final Project | Restaurant Analysis: What restaurants are popular? What restaurants generate the highest revenue? |
+| 7 | Final Project | You've been hired as a junior analyst for Zomato. As your first assignment you’re given several test datasets to analyze the business performance of restaurants and customers registered in the service. Restaurant Analysis: What restaurants are popular? What restaurants generate the highest revenue? |
 
